@@ -58,5 +58,3 @@ Pair plots and heatmaps were used to visualize correlations and interactions amo
 
 This Exploratory Data Analysis provides a comprehensive view of Amazon Prime Video’s content ecosystem. The findings reveal important patterns in content distribution, genre popularity, audience engagement, and regional contributions. These insights can be valuable for content creators, platform strategists, and viewers to better understand the dynamics of the streaming industry. Further analysis focusing on specific genres, regions, or viewer segments can offer even deeper insights.
 
-Handling Duplicates
-Duplicate records were identified and removed to maintain data accuracy.
